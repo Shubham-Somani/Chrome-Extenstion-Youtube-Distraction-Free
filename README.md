@@ -1,17 +1,17 @@
 # Chrome-Extenstion-Youtube-Distraction-Free
-This extension is designed to remove youtube videos from home, and watch sidebar
+This extension is designed to remove youtube videos from home, and watch sidebar.<br/>
 You can search and watch any video.
 
 
 # Chrome installation instructions:
-Download and unzip repository or clone it if you are familiar with git
-Open Chrome, go to: Customize > More tools > Extensions
-Turn Developer mode on
-You will see 'Load unpacked' button appear, click it
-Navigate to the extension folder you have created in the first step and select it
-Done
-PS: Don't delete or move extension folder
-PPS: Chrome will constantly ask you to disable developer mode, so you can ignore that.
+Download and unzip repository or clone it if you are familiar with git<br/>
+Open Chrome, go to: Customize > More tools > Extensions<br/>
+Turn Developer mode on<br/>
+You will see 'Load unpacked' button appear, click it<br/>
+Navigate to the extension folder you have created in the first step and select it<br/>
+Done<br/>
+PS: Don't delete or move extension folder<br/>
+PPS: Chrome will constantly ask you to disable developer mode, so you can ignore that.<br/>
 
 ## ScreenShots
 
